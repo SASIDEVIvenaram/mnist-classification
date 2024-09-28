@@ -8,7 +8,8 @@ To Develop a convolutional deep neural network for digit classification and to v
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+![image](https://github.com/user-attachments/assets/3a70f324-2645-4b1b-b6eb-b6784fea4872)
+
 
 ## DESIGN STEPS
 ## Steps for Building and Training a Convolutional Neural Network (CNN)
